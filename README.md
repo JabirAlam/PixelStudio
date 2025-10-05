@@ -1,1 +1,1 @@
-#PixelStudio For Non-Pixel Devices
+#PixelStudio
